@@ -1,0 +1,14 @@
+2026-05-09 23:46:22,570 | INFO | __main__ | ✅ Бота запущено...
+2026-05-09 23:46:22,767 | INFO | __main__ | ✅ Команди бота встановлено
+2026-05-09 23:46:26,088 | ERROR | __main__ | Exception while handling an update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-05-09 23:46:33,707 | ERROR | __main__ | Exception while handling an update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-05-09 23:46:45,158 | ERROR | __main__ | Exception while handling an update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-05-09 23:47:19,470 | ERROR | __main__ | Exception while handling an update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-05-09 23:48:16,796 | ERROR | __main__ | Exception while handling an update: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-05-09 23:49:40,041 | INFO | __main__ | ✅ Бота запущено...
+2026-05-09 23:49:40,201 | INFO | __main__ | ✅ Команди бота встановлено
+2026-05-09 23:50:03,999 | WARNING | __main__ | error_id=e1f00b9b | invalid_age | user_id=974721154 | input=f
+2026-05-09 23:51:15,632 | INFO | __main__ | 🛑 Бота зупинено
+2026-05-09 23:51:30,723 | INFO | __main__ | ✅ Бота запущено...
+2026-05-09 23:51:30,914 | INFO | __main__ | ✅ Команди бота встановлено
+2026-05-09 23:52:33,559 | INFO | __main__ | 🛑 Бота зупинено
